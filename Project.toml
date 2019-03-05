@@ -1,0 +1,4 @@
+name = "RowBinaryFiles"
+uuid = "477270c0-3eeb-11e9-1df9-e50cde4ac4a6"
+authors = ["Ciarán O'Mara <Ciaran.OMara@utas.edu.au>"]
+version = "0.1.0"
